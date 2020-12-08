@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "RiekeMoeller-Ehmcke"
+date: "8 Dezember 2020"
+output: word_document
+---
+
+Autorin: Rieke Moeller-Ehmcke  
+Kontakt: Mail  
+Enthaelt:
